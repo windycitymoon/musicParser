@@ -1,0 +1,24 @@
+body {
+}
+
+ul {
+}
+
+li {
+}
+
+.result {
+  display: block;
+  border: 1px #666 solid;
+  padding: 1rem;
+  margin: 1rem;
+  .result__key {
+    float: left;
+    margin-right: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  .result__value {
+
+  }
+}
